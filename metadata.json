@@ -1,0 +1,5 @@
+{
+  "name": "BOXPUT TEMPMAIL",
+  "description": "A fully functional, mobile-friendly temporary email web application that automatically generates a new temporary email on start, fetches emails periodically, and displays them in a clean inbox. Features include dark mode, copy to clipboard, auto-refresh, and a 10-minute email lifetime timer.",
+  "requestFramePermissions": []
+}
